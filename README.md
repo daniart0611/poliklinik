@@ -1,4 +1,4 @@
-# Poliklinik
+# Poliklinik ©2019
 Ini adalah tugas praktikum membuat aplikasi sistem informasi poliklinik.
 
 Fitur-fitur-nya antara lain:
